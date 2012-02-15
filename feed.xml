@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://gomboc.github.com/pear</id>
+    <updated>2012-02-16T00:06:24+01:00</updated>
+    <title>Gomboc's PEAR Channel Server Latest Releases</title>
+    <link href="http://gomboc.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://gomboc.github.com/pear</name>
+    </author>
+
+
+</feed>
