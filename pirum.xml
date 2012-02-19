@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
 <name>gomboc.github.com/pear</name>
-<summary>Gomboc's PEAR Channel Server</summary>
-<alias>gomboc</alias>
+<summary>g2's PEAR Channel Server</summary>
+<alias>g2</alias>
 <url>http://gomboc.github.com/pear</url>
 </server>
