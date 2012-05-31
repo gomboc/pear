@@ -2,17 +2,17 @@
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
     <p xlink:href="/rest/p/g2_tool">G2_Tool</p>
     <c>gomboc.github.com/pear</c>
-    <v>0.1.0</v>
-    <st>beta</st>
+    <v>1.0.0</v>
+    <st>stable</st>
     <l>MIT</l>
     <m>dg</m>
     <s>G2 Tool is extension to Zend_Tool.</s>
     <d>G2 Tool is extension to Zend_Tool.</d>
-    <da>2012-05-31 14:25:02</da>
+    <da>2012-05-31 15:02:30</da>
     <n>
 -
  </n>
-    <f>2923</f>
-    <g>http://gomboc.github.com/pear/get/G2_Tool-0.1.0</g>
-    <x xlink:href="package.0.1.0.xml"/>
+    <f>2922</f>
+    <g>http://gomboc.github.com/pear/get/G2_Tool-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
 </r>
