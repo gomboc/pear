@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0  http://pear.php.net/dtd/tasks-1.0.xsd  http://pear.php.net/dtd/package-2.0  http://pear.php.net/dtd/package-2.0.xsd">
+ <name>G2_DataMapper</name>
+ <channel>gomboc.github.com/pear</channel>
+ <summary>G2 DataMapper is an object-relational mapper library written in PHP.</summary>
+ <description>G2 DataMapper is an object-relational mapper library written in PHP.</description>
+ <lead>
+  <name>Draško Gomboc</name>
+  <user>dg</user>
+  <email>drasko.gomboc@gmail.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2012-06-01</date>
+ <time>14:20:23</time>
+ <version>
+  <release>1.0.0</release>
+  <api>1.0.0</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/mit-license.php">MIT</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="16f3542e809eff80b87fe2eb64bb0be5" name="G2/DataMapper/Factory/Domain.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="fc785dde022000fda579a1a7e2c6d778" name="G2/DataMapper/Identity/Field.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1b57eed6adfd2e7611d60ba9f8888ffd" name="G2/DataMapper/Autoloader.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="a49241457d104df7c86a5014506658d7" name="G2/DataMapper/Collection.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1078f3b741c730c959024bae0d821e18" name="G2/DataMapper/Domain.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="95cd1106f2fb74a57578f943a24f811e" name="G2/DataMapper/Identity.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="1533b0cc56b664b093c2a28a7ac08c7c" name="G2/DataMapper/Mapper.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="456beb2d7c076b3580f44ce1cf31da6d" name="G2/DataMapper/Selection.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="9786058d2765501fba83802ca20b9066" name="G2/DataMapper/Watcher.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="9927dd6c198788f3109faedab3205ed2" name="G2/DataMapper.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+   </file>
+   <file baseinstalldir="/" md5sum="523ee2d6d9fa44498202b6261cd04131" name="README.md" role="doc" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.0.0</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>

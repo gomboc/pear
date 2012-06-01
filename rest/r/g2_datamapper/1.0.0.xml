@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/g2_datamapper">G2_DataMapper</p>
+    <c>gomboc.github.com/pear</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>MIT</l>
+    <m>dg</m>
+    <s>G2 DataMapper is an object-relational mapper library written in PHP.</s>
+    <d>G2 DataMapper is an object-relational mapper library written in PHP.</d>
+    <da>2012-06-01 14:20:23</da>
+    <n>
+-
+ </n>
+    <f>6788</f>
+    <g>http://gomboc.github.com/pear/get/G2_DataMapper-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>
