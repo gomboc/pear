@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gomboc.github.com/pear</id>
-    <updated>2012-06-05T15:49:20+02:00</updated>
+    <updated>2012-06-06T15:51:54+02:00</updated>
     <title>g2's PEAR Channel Server Latest Releases</title>
     <link href="http://gomboc.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>G2_Autoloader 1.0.0 (stable)</title>
+        <link href="http://gomboc.github.com/pear/get/G2_Autoloader-1.0.0.tgz" />
+        <id>http://gomboc.github.com/pear/get/G2_Autoloader-1.0.0.tgz</id>
+        <author>
+            <name>dg</name>
+        </author>
+        <updated>2012-06-06T15:49:54+02:00</updated>
+        <content>
+            
+-
+ 
+        </content>
+    </entry>    <entry>
         <title>G2_Compressor 1.0.0 (stable)</title>
         <link href="http://gomboc.github.com/pear/get/G2_Compressor-1.0.0.tgz" />
         <id>http://gomboc.github.com/pear/get/G2_Compressor-1.0.0.tgz</id>

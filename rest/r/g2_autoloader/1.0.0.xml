@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/g2_autoloader">G2_Autoloader</p>
+    <c>gomboc.github.com/pear</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>MIT</l>
+    <m>dg</m>
+    <s>Autoloader for G2 packages.</s>
+    <d>Autoloader for G2 packages.</d>
+    <da>2012-06-06 15:49:54</da>
+    <n>
+-
+ </n>
+    <f>2349</f>
+    <g>http://gomboc.github.com/pear/get/G2_Autoloader-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>
